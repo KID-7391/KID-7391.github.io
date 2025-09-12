@@ -16,12 +16,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Welcome to my homepage. I’m  **Peisong Wen (温佩松)** , a Post-doc Fellow in University of Chinese Academy of Sciences (UCAS). I received the Ph.D. degree in Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by [Qingming Huang (黄庆明)](http://people.ucas.ac.cn/~qmhuang)  (Professor at UCAS, IEEE Fellow). My research interests include *self-supervised learning* and *ranking optimization.* I am also proud to have collaborated with [Qianqian Xu (许倩倩)](http://vipl.ict.ac.cn/people/~qianqianxu) (Professor at ICT, CAS), [Ke Ma](https://www.researchgate.net/profile/Ke_Ma10) [(马坷)](https://www.researchgate.net/profile/Ke_Ma10) & [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) & [Shilong Bao (包世龙)](https://statusrank.github.io/) (Postdoc at UCAS), and [Zitai Wang (王子泰)](https://wang22ti.com/) (Postdoc at ICT, CAS).
+Hi! Welcome to my homepage. I’m  **Peisong Wen (温佩松)**, a Post-doc Fellow in University of Chinese Academy of Sciences (UCAS). I received the Ph.D. degree in Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), supervised by [Qingming Huang (黄庆明)](http://people.ucas.ac.cn/~qmhuang) (Professor at UCAS, IEEE Fellow). My research interests include *self-supervised learning* and *ranking optimization.* I am also proud to have collaborated with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS), [Ke Ma (马坷)](https://alphaprime.github.io/) & [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Associate Professor at UCAS), [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) & [Shilong Bao (包世龙)](https://statusrank.github.io/) (Postdoc at UCAS), and [Zitai Wang (王子泰)](https://wang22ti.com/) (Postdoc at ICT, CAS).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total `<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>`google scholar citations `<strong><span id='total_cit'>`260000+`</strong></a>` (You can also use google scholar badge `<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">``</a>`). -->
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by TPAMI.
 - *2025.08*: &nbsp;🎉🎉 Our paper "Learn Faster and Remember More: Balancing Exploration and Exploitation for Continual Test-time Adaptation" has been awarded the Best Paper at China MM 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by IJCV.
@@ -30,6 +31,17 @@ Hi! Welcome to my homepage. I’m  **Peisong Wen (温佩松)** , a Post-doc Fell
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by TPAMI.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/pami25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semantic Concentration for Self-Supervised Dense Representations Learning](https://arxiv.org/abs/2509.09429)
+
+**Peisong Wen**, Qianqian Xu, Siran Dai, Runmin Cong, Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025. [\[Code\]](https://github.com/KID-7391/CoTAP)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/pami24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
