@@ -21,13 +21,13 @@ Hi! Welcome to my homepage. I’m  **Peisong Wen (温佩松)**, a Post-doc Fello
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total `<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>`google scholar citations `<strong><span id='total_cit'>`260000+`</strong></a>` (You can also use google scholar badge `<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">``</a>`). -->
 
 # 🔥 News
-
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2025.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by TPAMI.
 - *2025.08*: &nbsp;🎉🎉 Our paper "Learn Faster and Remember More: Balancing Exploration and Exploitation for Continual Test-time Adaptation" has been awarded the Best Paper at China MM 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by IJCV.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
-- *2024.10*: &nbsp;🎉🎉 Our paper "Not All Pairs are Equal: Hierarchical Learning for Average-Precision-Oriented Video Retrieva" has been honored with the Honourable Mention Award at ACM MM 2024.
+- *2024.10*: &nbsp;🎉🎉 Our paper "Not All Pairs are Equal: Hierarchical Learning for Average-Precision-Oriented Video Retrieval" has been honored with the Honourable Mention Award at ACM MM 2024.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by TPAMI.
 
 # 📝 Publications
@@ -43,6 +43,7 @@ Hi! Welcome to my homepage. I’m  **Peisong Wen (温佩松)**, a Post-doc Fello
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/pami24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,6 +53,20 @@ Hi! Welcome to my homepage. I’m  **Peisong Wen (温佩松)**, a Post-doc Fello
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Performance Degradation in Dense Tasks for Self-supervised Learning](https://arxiv.org/abs/2510.17299)
+
+Siran Dai, Qianqian Xu, **Peisong Wen**, Yang Liu, Qingming Huang. Annual Conference on Neural Information Processing Systems (**NeurIPS**) 2025. [\[Code\]](https://github.com/EldercatSAM/SSL-Degradation)
+
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,6 +78,8 @@ Yang Liu, Qianqian Xu, **Peisong Wen**, Siran Dai, Qingming Huang. IEEE/CVF Comp
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 (Honourable Mention Award)</div><img src='images/mm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,7 +90,10 @@ Yang Liu, Qianqian Xu, **Peisong Wen**, Siran Dai, Qingming Huang. ACM Internati
 </div>
 </div>
 
+
+
 <!-- - [When the Future Becomes the Past: Taming Temporal Correspondence for Self-supervised Video Representation Learning](https://github.com), A, B, C, **CVPR 2020** -->
+
 - [Top-K Pairwise Ranking: Bridging the Gap Among Ranking-Based Measures for Multi-label Classification](https://arxiv.org/abs/2407.06709.pdf), Zitai Wang, Qianqian Xu, Zhiyong Yang, **Peisong Wen**, Yuan He, Xiaochun Cao, Qingming Huang. International Journal of Computer Vision (**IJCV**), 133(1): 211-253, 2025.
 - [AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation](https://arxiv.org/abs/2409.20398.pdf), Boyu Han, Qianqian Xu, Zhiyong Yang, Shilong Bao, **Peisong Wen**, Yangbangyan Jiang, Qingming Huang. Neural Information Processing Systems (**NeurIPS**), 126863-126907, 2024. [\[Code\]](https://github.com/boyuh/AUCSeg)
 - [AUC-Oriented Domain Adaptation: From Theory to Algorithm](https://ieeexplore.ieee.org/document/10214222), Zhiyong Yang, Qianqian Xu, Shilong Bao, **Peisong Wen**, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 45(12): 14161-14174, 2023.
@@ -90,7 +110,6 @@ Yang Liu, Qianqian Xu, **Peisong Wen**, Siran Dai, Qingming Huang. ACM Internati
 - [DMVOS: Discriminative Matching for Real-time Video Object Segmentation](https://dl.acm.org/doi/10.1145/3394171.3414035), **Peisong Wen**, Ruolin Yang, Qianqian Xu, Chen Qian, Qingming Huang, Runmin Cong, Jianlou Si. ACM Conference on Multimedia (**ACM MM**), 2048–2056, 2020.
 - [Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation](https://yuhuan-wu.com/files/[20PAMI]%20LIID.pdf), Yun Liu, Yu-Huan Wu, **Peisong Wen**, Yujun Shi, Yu Qiu, Ming-Ming Cheng. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 44(3): 1415-1428, 2020.
 
-
 # 🎖 Honors and Awards
 
 - *2025.08* China MM 2025 Best Paper. (最佳论文奖)
@@ -100,9 +119,10 @@ Yang Liu, Qianqian Xu, **Peisong Wen**, Siran Dai, Qingming Huang. ACM Internati
 - *2023.10* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 
 # 📖 Services
+
 - Reviewer of ICML 23/24/25
 - Reviewer of NeurIPS 23/24/25
-- Reviewer of ICLR 24/25
+- Reviewer of ICLR 24/25/26
 - Reviewer of CVPR 23/24/25
 - PC Member of AAAI 24/25/26
 - Reviewer of IJCV
@@ -122,4 +142,5 @@ Yang Liu, Qianqian Xu, **Peisong Wen**, Siran Dai, Qingming Huang. ACM Internati
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 💻 Fundings and Project
+
 - *2025.07*: &nbsp; Postdoctoral Innovation Talent Support Program (博士后创新人才支持计划)
