@@ -54,7 +54,7 @@ Hi! Welcome to my homepage. I’m  **Peisong Wen (温佩松)**, a Post-doc Fello
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring Performance Degradation in Dense Tasks for Self-supervised Learning](https://arxiv.org/abs/2510.17299)
